@@ -1,0 +1,20 @@
+{
+    "schemaVersion": 1,
+    "id": "flashsuitmod",
+    "version": "1.0.0",
+    "name": "Flash Suit Mod",
+    "description": "A highly detailed, realistic superhero suit inspired by the CW Flash costume.",
+    "authors": ["twandy4545"],
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.twandy4545.flashsuitmod.FlashSuitMod"
+        ]
+    },
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.14.0",
+        "minecraft": ">=1.20.4"
+    }
+}
